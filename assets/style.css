@@ -1,0 +1,50 @@
+* {
+	font-family: "Arial";
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 2.5em;
+	
+}
+
+h2 {
+	font-size: 1.2em;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {	
+	position: absolute;
+    right: 0px;
+    width: 300px;
+}
+
+.red {
+	color: #DF0101;
+}
+
+.white {
+	color: #FEFEFE;
+}
+
+.bgblack {
+	background-color: #010101;
+}
+
+.div {
+	position: fixed;
+	margin-left: -0.5em;
+	margin-top: -0.5em;
+}
+.superior {	
+	width: 100%;
+	height: 20%;
+}
+
+.inferior {
+	width: 100%;
+	height: 80%;
+}
